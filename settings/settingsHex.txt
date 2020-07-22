@@ -1,0 +1,9 @@
+MapType: HexMap
+Width: 20
+Height: 20
+Symmetry: none
+ProcType: Algorithm
+ProcCrit: 0.83
+ProcSet: {-1, 0, 1, 2, 3, 4, 5}
+P(self) = Math.pow(c, 0.5*n+1)
+P(next) = (Math.pow(c, n))/(n+2)
