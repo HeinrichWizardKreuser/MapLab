@@ -2,6 +2,7 @@
 This is MapLab, an incomplete side project of mine.
 
 
+
 ## Compilation:
 #### Terminal
 ```
@@ -29,7 +30,9 @@ I planned for it to be a software where Game Developers could design maps for st
 The extend of what it can do is to procedurally generate maps using a function that the user can write.
 You can generate new maps by pressing the 'New Map' button (at the top, center to right).
 
+
 Perhaps the coolest part is the 3d rendering that I built myself. Under the '3D' tab, you can see the 3D version of the map displayed.
+![3d-gif](https://user-images.githubusercontent.com/48674623/88170329-cb96d880-cc1d-11ea-8432-63c29a7ede1d.gif)
 
 
 # Instructions
